@@ -4,7 +4,7 @@ Recreate Web Personal Portfolio Marina Suvorova
 
 ## Screenshot
 
-![Desktop Preview](images/screenshot.jpeg)
+![Desktop Preview](images/screenshot.png)
 
 ## Release Date
 
