@@ -20,7 +20,7 @@ body {
 }
 
 .bg-noise {
-  background: url("images/noise.gif");
+  background: url("../images/noise.gif");
   position: absolute;
   opacity: 0.1;
   width: 100%;
